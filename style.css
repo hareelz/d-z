@@ -1,0 +1,44 @@
+body {
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    box-sizing: border-box;
+}
+
+section {
+    background-color: black;
+}
+
+.block-1 {
+    display: flex;
+    background: url('https://spacegid.com/wp-content/uploads/2014/01/Mlechnyiy-put.jpg');
+    background-size: cover;
+}
+.block-title {
+    display: flex;
+    align-items: center;
+}
+.header-title {
+    font-size: 70px;
+    text-align: center;
+    width: 85%;
+    font-weight: 600;
+    margin: auto;
+    padding: 100px 0;
+    text-shadow: 10rcap;
+    color: rgba(255, 255, 255, 0.828);
+}
+.img-carusell {
+    max-width: 50%;
+    margin-left: 21%;
+}
+.img-carusell1 {
+    max-width: 32%;
+    margin-left: 34%;
+}
+.title-p {
+    font-size: 30px;
+}
+.title-pp {
+    font-size: 25px;
+}
