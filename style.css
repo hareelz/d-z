@@ -1,0 +1,30 @@
+/* ! MAIN-2 START */
+.main-2 {
+  width: auto;
+  height: 800px;
+  background-image: url(https://png.pngtree.com/background/20230426/original/pngtree-america-at-night-at-nasa-planet-earth-on-earth-elements-furnished-picture-image_2485843.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.main-2_right {
+  margin-left: 50px;
+  margin-bottom: 60px;
+}
+
+.h1 {
+  font-family: "Gabarito", cursive;
+  font-weight: 700;
+  font-size: 100px;
+  color: white;
+}
+p {
+  font-family: "Gabarito", cursive;
+  font-weight: 400;
+  font-size: 20px;
+  color: white;
+}
+/* ! MAIN-2 END */
