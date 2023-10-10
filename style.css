@@ -1,10 +1,19 @@
 
+/* ! MAIN-2 START */
+.main-2 {
+  width: auto;
+  height: 800px;
+  background-image: url(https://png.pngtree.com/background/20230426/original/pngtree-america-at-night-at-nasa-planet-earth-on-earth-elements-furnished-picture-image_2485843.jpg);
+
+}
+
 /*FOOTER*/
 /* ! MAIN-3 START */
 .main-3 {
   width: auto;
   height: 800px;
   background-image: url(https://www.sciencenews.org/wp-content/uploads/2023/04/033123_MT_Venus_feat.jpg);
+
   background-repeat: no-repeat;
   background-size: 100% auto;
   display: flex;
@@ -13,14 +22,22 @@
 }
 
 .main-3_right {
+
   margin-left: 50px;
   margin-bottom: 60px;
 }
+
+
+.h1 {
+  font-family: "Gabarito", cursive;
+  font-weight: 700;
+  font-size: 100px;
 
 h1 {
   font-family: "Gabarito", cursive;
   font-weight: 700;
   font-size: 80px;
+
   color: white;
 }
 p {
@@ -29,6 +46,9 @@ p {
   font-size: 20px;
   color: white;
 }
+
+/* ! MAIN-2 END */
+
 /* ! MAIN-3 END */
 
 /* ! FOOTER START */
